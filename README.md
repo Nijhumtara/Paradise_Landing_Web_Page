@@ -1,4 +1,4 @@
-# paradise-landing-page
+# Paradise-Landing-Page
 
 <h3>Paradise Landing Page</h3>
 A tropical-themed, fully responsive single-page website built with HTML5 & CSS3.
